@@ -1,0 +1,22 @@
+{
+  "price": {
+    "cumulative_return_pct": 2.7926491186719415,
+    "sharpe_ratio": 0.98666369251379,
+    "max_drawdown_pct": -1.0724195133131114
+  },
+  "sentiment": {
+    "cumulative_return_pct": 0.0,
+    "sharpe_ratio": 0.0,
+    "max_drawdown_pct": 0.0
+  },
+  "volume": {
+    "cumulative_return_pct": -4.348339861117967,
+    "sharpe_ratio": -0.7543619887190152,
+    "max_drawdown_pct": -4.683039913828031
+  },
+  "all": {
+    "cumulative_return_pct": -4.524334703497901,
+    "sharpe_ratio": -1.2189048542224052,
+    "max_drawdown_pct": -5.8690962754381255
+  }
+}

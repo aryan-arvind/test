@@ -1,0 +1,10 @@
+# config.py — all tunable values live here, nowhere else
+
+STOCKS = ["RELIANCE.NS", "TCS.NS", "HDFCBANK.NS", "INFY.NS"]
+VIX_TICKER = "^INDIAVIX"
+NIFTY_TICKER = "^NSEI"
+LOOKBACK = 60
+FEATURE_DIM = 32
+TRAIN_RATIO = 0.8
+INITIAL_CAPITAL = 100000
+TIMESTEPS = 10000
