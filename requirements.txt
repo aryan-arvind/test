@@ -1,0 +1,13 @@
+torch
+torchvision
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+gradio
+scikit-learn
+gymnasium
+fastapi
+uvicorn
+requests
